@@ -118,7 +118,7 @@ def display_hangman(attempts):
 
 if __name__ == '__main__':
     
-    word_list = ['cat','star','fever','ankita']
+    word_list = ['cat','star','fever','reba']
     words = random.choice(word_list)
     play_game(words)
     
